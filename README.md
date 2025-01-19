@@ -53,8 +53,3 @@ Follow these steps to set up the project locally:
 - [Node.js](https://nodejs.org) installed on your system.
 - MongoDB server running locally or a MongoDB Atlas account.
 
-### Installation Steps:
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/ecommerce-app.git
-   cd ecommerce-app
